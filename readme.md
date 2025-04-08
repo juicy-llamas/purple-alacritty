@@ -11,27 +11,7 @@
 3. Clone this repository
 4. Copy the contents of purple.toml
 5. Paste that shit in the config file
-
-### Example
-
-The following example will assume that your Alacritty's config path is `~/.config/alacritty/alacritty.toml`.
-
-```sh
-# Clone this repository
-git clone https://github.com/rose-pine/alacritty.git
-
-# Copy the contents of the `dist` directory to Alacritty's config directory
-cp ./alacritty/dist/* ~/.config/alacritty
-
-# Delete the cloned repository (optional)
-rm -r ./alacritty
-```
-
-The Alacritty's config directory should now contain `rose-pine.toml`, `rose-pine-moon.toml` and `rose-pine-dawn.toml`. Choose one of these files and import it into your Alacritty's config (*the following code block will assume that you choose `rose-pine.toml`*).
-
-```toml
-import = ["~/.config/alacritty/rose-pine.toml"]
-```
+    - Optionally you can import it
 
 ## Gallery
 
