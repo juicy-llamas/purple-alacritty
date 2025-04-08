@@ -7,7 +7,7 @@
 ## Usage
 
 1. Locate (or create) Alacritty's config file (refer to [the *Configuration* section of Alacritty's readme](https://github.com/alacritty/alacritty/tree/master#configuration))
- - This is typically in `~/.config/alacritty/alacritty.toml`
+    - This is typically in `~/.config/alacritty/alacritty.toml`
 3. Clone this repository
 4. Copy the contents of purple.toml
 5. Paste that shit in the config file
