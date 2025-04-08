@@ -2,7 +2,7 @@
     <h2 align="center">Purple for Alacritty</h2>
 </p>
 
-<p align="center">Derived from [Rose Pine](https://rosepinetheme.com) because I wanted the background color to match the [firefox theme](https://addons.mozilla.org/en-US/firefox/addon/rose-pine-dark-theme/).</p>
+<p align="center">Derived from <a href="https://rosepinetheme.com">Rose Pine</a> because I wanted the background color to match the <a href="https://addons.mozilla.org/en-US/firefox/addon/rose-pine-dark-theme/">firefox theme</a>.</p>
 
 ## Usage
 
